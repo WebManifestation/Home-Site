@@ -1,0 +1,26 @@
+.skip {
+	position: absolute;
+	right: 0;
+	background: #4485D5;
+}
+
+.opt-1 {
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	background: chocolate;
+}
+
+.opt-2 {
+	position: absolute;
+	top: 40%;
+	left: 75%;
+	background: darkred;
+}
+
+.opt-3 {
+	position: absolute;
+	top: 75%;
+	left: 50%;
+	background: forestgreen;
+}
